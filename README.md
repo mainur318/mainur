@@ -2,7 +2,7 @@ pacman-canvas
 =============
 
 An old classic, re-written in HTML5.
-Visit http://pacman.mainur.ch to see it live.
+Visit https://github.com/mainur318/mainur to see it live.
 
 Sounds from 
 http://soundfxcenter.com/ and http://soundfxnow.com/
